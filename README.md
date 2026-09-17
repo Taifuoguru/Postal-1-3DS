@@ -24,6 +24,10 @@ sdmc:/3ds/postal/
   data/
 ```
 
+<img width="822" height="461" alt="Ekran görüntüsü 2026-09-17 232445" src="https://github.com/user-attachments/assets/0c3188f7-33bc-42bd-9d20-2ef9eea75577" />
+
+<img width="815" height="384" alt="Ekran görüntüsü 2026-09-17 232505" src="https://github.com/user-attachments/assets/c34f1430-143d-4b14-bb5f-282dda6163c6" />
+
 Copy the original Postal 1 data files into `sdmc:/3ds/postal/data/`:
 
 ```text
@@ -73,21 +77,8 @@ Press `SELECT` to open the Cheat Console:
 - Infinite Ammo
 - Next Level
 
-## Building
 
-Requirements:
 
-- devkitPro
-- devkitARM
-- libctru
-- SDL2 with Nintendo 3DS support
-
-Build the ELF and convert it to a 3DSX executable:
-
-```bash
-make N3DS=1
-3dsxtool bin/postal1-3ds.elf bin/postal1-3ds.3dsx
-```
 
 ## Legal Notice
 
