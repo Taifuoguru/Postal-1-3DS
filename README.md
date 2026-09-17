@@ -89,3 +89,7 @@ for supplying files from a legally obtained copy of the game.
 
 The project is distributed under the GPL-2.0 license. See `LICENSE` for the
 full license text.
+
+
+
+Hi everyone! This is a completely new port compared to the old one—please read the updated instructions. If you get a black screen on startup, press Start to continue. I suspect it should work on Old 3DS models, but I don't have one to test it on. Please report any bugs if you find them!
