@@ -6,6 +6,16 @@ A Nintendo 3DS port of Postal 1 built from the open-source Postal engine.
 This repository contains the engine and Nintendo 3DS platform code only. It
 does not include Postal 1 game data, music, maps, or other copyrighted assets.
 To run the port, use data files from your own legally obtained copy of Postal
+
+
+
+
+
+## Support
+If you enjoy this project and want to support my 3DS homebrew work, feel free to buy me a coffee!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/taifuoguru)
+
 1.
 
 ## Status
